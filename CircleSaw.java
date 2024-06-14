@@ -1,0 +1,1 @@
+public class CircleSaw extends Inventory {}

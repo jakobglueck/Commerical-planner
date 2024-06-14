@@ -1,0 +1,1 @@
+public class Chair extends Inventory {}

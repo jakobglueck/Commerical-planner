@@ -1,0 +1,1 @@
+public class RouterMachine extends Inventory{}

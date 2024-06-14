@@ -1,0 +1,1 @@
+public class Sink extends Inventory{}

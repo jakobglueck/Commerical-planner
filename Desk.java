@@ -1,0 +1,1 @@
+class Desk extends Inventory {}
